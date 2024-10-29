@@ -1,6 +1,4 @@
-// src/components/RecipeCard.js
-import React from "react";
-import NutritionTable from "./NutritionTable"; // table contents imported to the component
+import NutritionTable from "./NutritionTable"; // Corrected import statement//+
 import "./RecipeCard.css"; // styles here 
 
 const RecipeCard = () => {
@@ -45,7 +43,7 @@ const RecipeCard = () => {
         </ol>
       </section>
 
-      <NutritionTable />
+      <NutritionTable/>
     </div>
   );
 };

@@ -1,5 +1,4 @@
 // src/components/NutritionTable.js
-import React from "react";
 import "./NutritionTable.css";
 
 const NutritionTable = () => {
