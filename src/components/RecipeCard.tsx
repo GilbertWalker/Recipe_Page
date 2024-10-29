@@ -1,4 +1,4 @@
-import NutritionTable from "./NutritionTable"; // Corrected import statement//+
+import NutritionTable from "./NutritionTable"; // Corrected import statement//
 import "./RecipeCard.css"; // styles here 
 
 const RecipeCard = () => {

@@ -1,4 +1,3 @@
-// src/components/NutritionTable.js
 import "./NutritionTable.css";
 
 const NutritionTable = () => {
