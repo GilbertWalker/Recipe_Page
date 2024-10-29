@@ -1,0 +1,16 @@
+/* src/components/NutritionTable.css */
+.nutrition {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(14, 45%, 36%);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table td {
+    padding: 8px 0;
+    border-bottom: 1px solid hsl(30, 54%, 90%);
+  }
+  

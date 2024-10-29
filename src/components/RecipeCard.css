@@ -1,0 +1,52 @@
+/* src/components/RecipeCard.css */
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(30, 54%, 90%);
+    color: hsl(14, 45%, 36%);
+    line-height: 30px;
+}
+
+.recipe-card {
+    max-width: 650px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recipe-image {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-title {
+    font-family: 'Young Serif', serif;
+    color: hsl(30, 10%, 34%);
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-description {
+    font-family: 'Outfit', sans-serif;
+    color:hsl(14, 45%, 36%);
+    margin-bottom: 20px;
+  }
+  
+  .preparation-time{
+    background-color: hsla(332, 51%, 32%, 0.068);
+    padding: 10px;
+    border-radius: 12px;
+  }
+  .preparation-time, .ingredients, .instructions, .nutrition {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-family: 'Young Serif', sans-serif;
+    font-weight: 200;
+    color: hsl(14, 45%, 36%);
+  }
+  
